@@ -51,4 +51,6 @@
 ## 参考サイト
  - [口座開設方法](https://news.mynavi.jp/cryptocurrency/bitflyer-account/)
  - [APIキー取得方法](https://support.me.moneyforward.com/hc/ja/articles/900003514806--bitFlyer-を連携する方法を教えてください)
+ - [スライド](https://docs.google.com/presentation/d/1_2F0XdMI949wWQj3NVKL9ir4YIwHt12A6_JTJ4wUu7A/edit?usp=sharing
+)
 
